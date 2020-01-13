@@ -1,4 +1,4 @@
-import BeeRouter from "./BeeRouter.jsx";
-import BeeRouterEmitter from "./Emitter.jsx";
+import BeeRouter from "./components/BeeRouter";
+import BeeRouterEmitter from "./components/Emitter";
 
 export { BeeRouter, BeeRouterEmitter };

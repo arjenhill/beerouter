@@ -1,6 +1,6 @@
 ## 简介
 
-bee-router是一个小巧玲珑的react路由，只有200行代码。和react-router相比，bee-router具有以下优点：
+bee-router是一个小巧玲珑的react路由，只有200行代码。与react-router相比，bee-router具有以下优点：
 
 ```js
 1. 代码体积相差是10几倍, 如果是寸土寸金的移动端开发很适合。
