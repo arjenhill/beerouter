@@ -10,7 +10,7 @@ bee-router是一个小巧玲珑的react路由，只有200行代码。与react-ro
 
 ## 示例
 
-[在线示例](http://halldwang.github.io/beerouter)
+[在线示例](https://halldwang.github.io/bee-router)
 
 ![img](https://puui.qpic.cn/vupload/0/1578925965765_32vz2jeqndq.gif/0)
 
