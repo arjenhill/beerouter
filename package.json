@@ -1,6 +1,6 @@
 {
   "name": "beerouter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "BeeRouter是一个小巧玲珑的react路由，只有200行代码。",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/halldwang/beerouter.git"
+    "url": "git+https://github.com/halldwang/bee-router.git"
   },
   "keywords": [
     "react-router",
@@ -18,7 +18,7 @@
   "author": "halldwang",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/halldwang/beerouter/issues"
+    "url": "https://github.com/halldwang/bee-router/issues"
   },
-  "homepage": "https://github.com/halldwang/beerouter#readme"
+  "homepage": "https://github.com/halldwang/bee-router"
 }
