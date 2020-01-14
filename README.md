@@ -18,8 +18,10 @@ bee-router是一个小巧玲珑的react路由，只有200行代码。与react-ro
 
 第一步：
 
+[![bee-router](https://nodei.co/npm/beerouter.png)](https://npmjs.org/package/beerouter)
+
 ```js
-npm install bee-router --save
+npm install beerouter --save
 ```
 
 第二步：
