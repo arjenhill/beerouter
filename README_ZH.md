@@ -1,20 +1,22 @@
-## Overview
+## 简介
 
-🦋 Bee router is a small and exquisite React Router for mobile web project, with only 200 lines of code. Different with react-router，bee router has the following advantages:
+🦋 bee-router是一个小巧玲珑的react路由，只有200行代码。与react-router相比，bee-router具有以下优点：
 
-- Over ten times smaller volume, which makes it is suitable for mobile web projects with limit of code lines.
-- Bee router has the same basic functions with react router, such as route switching and routing events etc. , but reducing rarely-used functions in react router.
-- Unlike react router which repeatedly initializes components, bee-router only needs to be initialized once, which greatly saves resources.
+```js
+1. 代码体积相差是10几倍, 如果是寸土寸金的移动端开发很适合。
+2. 基本功能都在, 路由切换、路由事件等，react-router很多功能你一般用不到。
+3. 不同于react-router反复初始化组件, bee-router只需要初始化一次, 大大节省资源。
+```
 
-## Usage
+## 示例
 
-[Example](https://halldwang.github.io/bee-router)
+[在线示例](https://halldwang.github.io/bee-router)
 
 ![img](https://puui.qpic.cn/vupload/0/1578925965765_32vz2jeqndq.gif/0)
 
-## Installation
+## 使用
 
-First step:
+第一步：
 
 [![bee-router](https://nodei.co/npm/beerouter.png)](https://npmjs.org/package/beerouter)
 
@@ -22,7 +24,7 @@ First step:
 npm install beerouter --save
 ```
 
-The second step:
+第二步：
 
 ```js
 import React from "react";
