@@ -1,5 +1,7 @@
 ## 简介
 
+[English](./README_ZH.md) | 简体中文
+
 🦋 bee-router是一个小巧玲珑的react路由，只有200行代码。与react-router相比，bee-router具有以下优点：
 
 ```js
@@ -10,9 +12,9 @@
 
 ## 示例
 
-[在线示例](https://halldwang.github.io/bee-router)
+[在线示例](https://ilgei.github.io/beerouter/)
 
-![img](https://puui.qpic.cn/vupload/0/1578925965765_32vz2jeqndq.gif/0)
+![img](./example.gif)
 
 ## 使用
 

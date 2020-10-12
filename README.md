@@ -1,5 +1,7 @@
 ## Overview
 
+English | [简体中文](./README.md)
+
 🦋 Bee router is a small and exquisite React Router for mobile web project, with only 200 lines of code. Different with react-router，bee router has the following advantages:
 
 - Over ten times smaller volume, which makes it is suitable for mobile web projects with limit of code lines.
@@ -8,9 +10,9 @@
 
 ## Usage
 
-[Example](https://halldwang.github.io/bee-router)
+[Example](https://ilgei.github.io/beerouter/)
 
-![img](https://puui.qpic.cn/vupload/0/1578925965765_32vz2jeqndq.gif/0)
+![img](./example.gif)
 
 ## Installation
 
