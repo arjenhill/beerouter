@@ -1,6 +1,6 @@
 ## Overview
 
-English | [简体中文](./README.md)
+English | [简体中文](./README_ZH.md)
 
 🦋 Bee router is a small and exquisite React Router for mobile web project, with only 200 lines of code. Different with react-router，bee router has the following advantages:
 
